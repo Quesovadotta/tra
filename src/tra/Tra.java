@@ -16,8 +16,8 @@ public class Tra {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    public class  {
-        
+    public class Newclass {
+        int x;
     }
     
 }
