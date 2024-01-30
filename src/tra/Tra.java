@@ -17,7 +17,7 @@ public class Tra {
         // TODO code application logic here
     }
     public class Newclass {
-        int x;
+        int xxx;
     }
     
 }
